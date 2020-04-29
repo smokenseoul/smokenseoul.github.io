@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ea22555.chunk.css",
+    "main.js": "/static/js/main.a3a640c8.chunk.js",
+    "main.js.map": "/static/js/main.a3a640c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.32b2e841.js",
+    "runtime-main.js.map": "/static/js/runtime-main.32b2e841.js.map",
+    "static/css/2.9bbaddc3.chunk.css": "/static/css/2.9bbaddc3.chunk.css",
+    "static/js/2.09d81a21.chunk.js": "/static/js/2.09d81a21.chunk.js",
+    "static/js/2.09d81a21.chunk.js.map": "/static/js/2.09d81a21.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5d9de3131e13dd34bc0133fdd7afba7.js": "/precache-manifest.e5d9de3131e13dd34bc0133fdd7afba7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9bbaddc3.chunk.css.map": "/static/css/2.9bbaddc3.chunk.css.map",
+    "static/css/main.1ea22555.chunk.css.map": "/static/css/main.1ea22555.chunk.css.map",
+    "static/js/2.09d81a21.chunk.js.LICENSE.txt": "/static/js/2.09d81a21.chunk.js.LICENSE.txt",
+    "static/media/smoke-n-seoul.jpg": "/static/media/smoke-n-seoul.4aba96e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32b2e841.js",
+    "static/css/2.9bbaddc3.chunk.css",
+    "static/js/2.09d81a21.chunk.js",
+    "static/css/main.1ea22555.chunk.css",
+    "static/js/main.a3a640c8.chunk.js"
+  ]
+}
