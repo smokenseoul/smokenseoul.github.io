@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: Smoke 'n' Seoul
+email: GREG@SMOKENSEOUL.COM
+description: >- # this means to ignore newlines until "baseurl:"
+KC BBQ + Korean. We're not your traditional BBQ restaurant but we have worked hard to make sure our meat stands up to the high standards that have been set here in Kansas City.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.smokenseoul.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: smokenseoul
+github_username:  smokenseoul
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
